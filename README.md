@@ -26,6 +26,3 @@ Python
    ```
    Output will say if the number is a palindrome.
 
-Why this is useful
-- Good small project to show on your GitHub profile.
-- Easy to explain in one sentence.
